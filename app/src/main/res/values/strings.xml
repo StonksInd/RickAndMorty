@@ -1,3 +1,63 @@
 <resources>
-    <string name="app_name">RickAndMorty</string>
+    <string name="app_name">Rick and Morty</string>
+
+    <string name="character_1_name">Rick Sanchez</string>
+    <string name="character_1_status">Alive</string>
+    <string name="character_1_species">Human</string>
+    <string name="character_1_origin">Earth</string>
+    <string name="character_1_image">https://rickandmortyapi.com/api/character/avatar/1.jpeg</string>
+
+    <string name="character_2_name">Morty Smith</string>
+    <string name="character_2_status">Alive</string>
+    <string name="character_2_species">Human</string>
+    <string name="character_2_origin">unknown</string>
+    <string name="character_2_image">https://rickandmortyapi.com/api/character/avatar/2.jpeg</string>
+
+    <string name="character_3_name">Summer Smith</string>
+    <string name="character_3_status">Alive</string>
+    <string name="character_3_species">Human</string>
+    <string name="character_3_origin">Earth</string>
+    <string name="character_3_image">https://rickandmortyapi.com/api/character/avatar/3.jpeg</string>
+
+    <string name="character_4_name">Beth Smith</string>
+    <string name="character_4_status">Alive</string>
+    <string name="character_4_species">Human</string>
+    <string name="character_4_origin">Earth</string>
+    <string name="character_4_image">https://rickandmortyapi.com/api/character/avatar/4.jpeg</string>
+
+    <string name="character_5_name">Jerry Smith</string>
+    <string name="character_5_status">Alive</string>
+    <string name="character_5_species">Human</string>
+    <string name="character_5_origin">Earth</string>
+    <string name="character_5_image">https://rickandmortyapi.com/api/character/avatar/5.jpeg</string>
+
+    <string name="character_6_name">Abadango Cluster Princess</string>
+    <string name="character_6_status">Alive</string>
+    <string name="character_6_species">Alien</string>
+    <string name="character_6_origin">Abadango</string>
+    <string name="character_6_image">https://rickandmortyapi.com/api/character/avatar/6.jpeg</string>
+
+    <string name="character_7_name">Abradolf Lincler</string>
+    <string name="character_7_status">unknown</string>
+    <string name="character_7_species">Human</string>
+    <string name="character_7_origin">Earth</string>
+    <string name="character_7_image">https://rickandmortyapi.com/api/character/avatar/7.jpeg</string>
+
+    <string name="character_8_name">Adjudicator Rick</string>
+    <string name="character_8_status">Dead</string>
+    <string name="character_8_species">Human</string>
+    <string name="character_8_origin">Citadel of Ricks</string>
+    <string name="character_8_image">https://rickandmortyapi.com/api/character/avatar/8.jpeg</string>
+
+    <string name="character_9_name">Agency Director</string>
+    <string name="character_9_status">Dead</string>
+    <string name="character_9_species">Human</string>
+    <string name="character_9_origin">Earth</string>
+    <string name="character_9_image">https://rickandmortyapi.com/api/character/avatar/9.jpeg</string>
+
+    <string name="character_10_name">Alan Rails</string>
+    <string name="character_10_status">Dead</string>
+    <string name="character_10_species">Human</string>
+    <string name="character_10_origin">unknown</string>
+    <string name="character_10_image">https://rickandmortyapi.com/api/character/avatar/10.jpeg</string>
 </resources>
